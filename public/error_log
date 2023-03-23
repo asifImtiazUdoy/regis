@@ -1,0 +1,11 @@
+[18-Sep-2021 16:42:48 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 4096 bytes) in /home/livingar/registration/vendor/laravel/framework/src/Illuminate/Pagination/AbstractPaginator.php on line 316
+[04-Dec-2021 01:07:26 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 65536 bytes) in /home/livingar/registration/vendor/composer/ClassLoader.php on line 444
+[12-Dec-2021 06:23:34 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 36864 bytes) in /home/livingar/registration/vendor/composer/autoload_static.php on line 2555
+[16-Jun-2022 14:51:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function execCommand() in /home/livingar/exhibition.livingartbg.com/assets/service.php(5) : eval()'d code(1) : eval()'d code:310
+Stack trace:
+#0 /home/livingar/exhibition.livingartbg.com/assets/service.php(5) : eval()'d code(1): eval()
+#1 /home/livingar/exhibition.livingartbg.com/assets/service.php(5): eval()
+#2 /home/livingar/exhibition.livingartbg.com/assets/service.php(10): mode()
+#3 {main}
+  thrown in /home/livingar/exhibition.livingartbg.com/assets/service.php(5) : eval()'d code(1) : eval()'d code on line 310
+[14-Feb-2023 12:42:21 UTC] PHP Warning:  unlink() expects parameter 1 to be a valid path, resource given in /home/livingar/exhibition.livingartbg.com/wp-setups.php on line 1
